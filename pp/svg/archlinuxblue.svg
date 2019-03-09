@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,14 +14,13 @@
    height="1200"
    id="svg2424"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    version="1.0"
-   sodipodi:docbase="/home/thayer/arch/artwork/archlinux-official-artwork"
-   sodipodi:docname="symbol.svg"
+   sodipodi:docname="archlinuxblue.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/thayer/archlinux-logo-contest/vertical.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/achmadi/Pictures/archblue.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2426">
     <inkscape:perspective
@@ -269,19 +269,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="182.5"
+     inkscape:cx="37"
      inkscape:cy="137.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     inkscape:window-width="1034"
-     inkscape:window-height="978"
-     inkscape:window-x="148"
-     inkscape:window-y="24"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      width="365px"
      height="275px"
-     showgrid="false" />
+     showgrid="false"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata2429">
     <rdf:RDF>
